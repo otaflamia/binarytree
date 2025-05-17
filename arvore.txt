@@ -1,0 +1,32 @@
+Você já estudou banco de dados relacionais?
+    Você entende o conceito de tabela?
+        Sabe o que são colunas e linhas?
+            Sabe o que é chave primária?
+                Use chave primária para identificar registros únicos.
+                Estude o conceito de integridade de dados.
+            Sabe o que é chave estrangeira?
+                Use chave estrangeira para relacionar tabelas.
+                Estude relacionamentos entre tabelas.
+        Sabe como criar uma tabela em SQL?
+            Você conhece o comando CREATE TABLE?
+                Use CREATE TABLE para definir estruturas.
+                Estude a sintaxe do comando CREATE TABLE.
+            Você sabe definir tipos de dados?
+                Use INT, VARCHAR, DATE corretamente.
+                Estude os tipos de dados mais comuns no SQL.
+    Você já estudou comandos de consulta?
+        Você conhece o SELECT?
+            Sabe usar WHERE para filtrar dados?
+                Use SELECT com WHERE para filtrar resultados.
+                Estude a cláusula WHERE em SQL.
+            Sabe ordenar os dados com ORDER BY?
+                Use ORDER BY para exibir dados organizados.
+                Estude a sintaxe de ORDER BY.
+        Você conhece os tipos de JOIN?
+            Sabe usar INNER JOIN?
+                Use INNER JOIN para combinar dados relacionados.
+                Estude a sintaxe de INNER JOIN.
+            Sabe a diferença entre LEFT JOIN e RIGHT JOIN?
+                Use LEFT JOIN para incluir todos os dados da tabela esquerda.
+                Use RIGHT JOIN para incluir todos os dados da tabela direita.
+    Comece pelos conceitos básicos de banco de dados relacionais.
